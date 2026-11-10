@@ -112,7 +112,7 @@ documentation/
     test-cases/                 test case document with actual results
     test-evidence/              test runners and execution logs
     screenshots/                application screenshots used in the report and tests
-    report/                     coursework report (HTML source, build script, PDF)
+    report/                     coursework report: report.md source, build_report.py (HTML/PDF), build_docx.js (Word), PDF and DOCX
 ```
 
 ## 6. Assumptions
